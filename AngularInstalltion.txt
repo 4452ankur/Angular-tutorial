@@ -1,0 +1,15 @@
+Angular Installation 
+(Npm comes with node)
+1.Nodejs.org  Install Node Latest LTS Version: 10.15.3 (includes npm 6.4.1)
+ cmd node -v
+ cmd npm -v
+ 
+2.Install angular cli version Angular CLI: 7.3.8
+cmd> npm install -g @angular/cli
+cmd> ng --version
+3. Create new project in Angular
+cmd> D:
+cd ankur
+cmd>ng new  my-first-app
+to execute application
+ng -serve
